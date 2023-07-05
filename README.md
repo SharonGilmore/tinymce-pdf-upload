@@ -63,4 +63,4 @@ In a command line tool, go to the plugin's home directory (ie the one this READM
 Sometimes I find that the rebuilding process gets itself stuck on a previous version and my changes don't get transmitted to the new `plugin.min.js`.  If this happens, check `lib/Plugin.js` and then `main/ts/core/Plugin.js` - if either of those don't have the changes, copy them in manually and then re-run `npm run build`.
 
 
-[Tips](https://zink.tips/zwc.js?rid=64a5907d8933fb8ba1fbc38e&c=purple&t=XNO)
+[Tips](https://zink.tips/Sharon711)
